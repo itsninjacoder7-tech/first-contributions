@@ -2898,3 +2898,4 @@ Emany Chiruza
 - [kidding](https://github.com/ruihannnn)
 - [Rohit Baikar] (https://github.com/rohit7692)
 - [Arnav Singh](https://github.com/Arnav-Singh-5080)
+- [Ninja Hatori](https://github.com/itsninjacoder7-tech) 
